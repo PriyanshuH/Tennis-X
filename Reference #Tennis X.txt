@@ -1,0 +1,23 @@
+References used while making the project:
+
+. Coding Challenge #3: The Snake Game -The Coding Train
+	https://youtu.be/AaGK-fj-BAM   
+
+. How to install Visual Studio 2019 on Windows 10 -Amit Thinks
+	https://youtu.be/l6Axw8pAWv0
+
+. Visual Studio Code Tutorial for Beginners - Introduction -Academind
+	https://youtu.be/VqCgcpAypFQ
+
+. Intro to Game Development with JavaScript - Full Tutorial -freeCodeCamp.org
+	https://youtu.be/3EMxBkqC4z0
+
+. Learn JavaScript - Full Course for Beginners -freeCodeCamp.org
+	https://youtu.be/PkZNo7MFNFg
+
+. https://www.sitepoint.com/delay-sleep-pause-wait/
+
+. What the heck is the event loop anyway? | Philip Roberts | JSConf EU
+	https://youtu.be/8aGhZQkoFbQ
+
+
